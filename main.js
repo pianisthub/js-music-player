@@ -42,10 +42,94 @@ let track_list = [
   
   {
     name: "Srivalli",
-    artist: "Srivalli",
+    artist: "SidSriram",
     image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "songs/Srivalli.mp3",
   },
+  
+  {
+    name: "Carry on",
+    artist: "Randy",
+    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "songs/Randy.mp3",
+  },
+  {
+    name: "Carry on",
+    artist: "Kansas",
+    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "songs/Kansas.mp3",
+  },
+  
+  {
+    name: "viridianForest",
+    artist: "viridianForest",
+    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "songs/viridianForest.mp3",
+  },
+  
+  
+  {
+    name: "Opening",
+    artist: "Opening",
+    image: "img/pok.jpg",
+    path: "songs/Opening.mp3",
+  },
+  
+  {
+    name: "battle",
+    artist: "battle",
+    image: "img/pok.jpg",
+    path: "songs/battle.mp3",
+  },
+  
+  {
+    name: "gym",
+    artist: "gym",
+    image: "img/pok.jpg",
+    path: "songs/gym.mp3",
+  },
+  {
+    name: "Hanada",
+    artist: "Hanada",
+    image: "img/pok.jpg",
+    path: "songs/Hanada.mp3",
+  },
+  {
+    name: "shion",
+    artist: "shion",
+    image: "img/pok.jpg",
+    path: "songs/shion.mp3",
+  },
+  {
+    name: "Tokiwa",
+    artist: "Tokiwa",
+    image: "img/pok.jpg",
+    path: "songs/Tokiwa.mp3",
+  },
+  
+  {
+    name: "tower",
+    artist: "tower",
+    image: "img/pok.jpg",
+    path: "songs/tower.mp3",
+  },
+  
+  {
+    name: "Ending",
+    artist: "Ending",
+    image: "img/pok.jpg",
+    path: "songs/Ending.mp3",
+  },
+  
+  {
+    name: "castlevania",
+    artist: "castlevania",
+    image: "https://images.pexels.com/photos/1717969/pexels-photo-1717969.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
+    path: "songs/castlevania.mp3",
+  },
+  
+  
+  
 ];
 
 function random_bg_color() {
